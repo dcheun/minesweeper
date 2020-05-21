@@ -1,0 +1,27 @@
+body {
+  margin-top: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  display: block;
+}
+
+#resetGridButton {
+  margin: auto;
+}
+
+#gameTitle {
+  text-align: center;
+  font-size: 14pt;
+}
+
+#difficulty {
+  text-align: center;
+  margin-top: 15px;
+}
